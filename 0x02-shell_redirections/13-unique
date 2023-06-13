@@ -1,1 +1,1 @@
-sort | uniq -u
+sort | list uniq -u 
